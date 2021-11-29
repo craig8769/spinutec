@@ -1,0 +1,19 @@
+﻿namespace BluffinMuffin.HandEvaluator.Enums
+{
+    public enum NominalValueEnum
+    {
+        Two,
+        Three,
+        Four,
+        Five,
+        Six,
+        Seven,
+        Eight,
+        Nine,
+        Ten,
+        Jack,
+        Queen,
+        King,
+        Ace
+    }
+}
